@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is app",
+  "main": "server.js",
+  "author": "priyaanshu",
+  "license": "ISC"
+}
